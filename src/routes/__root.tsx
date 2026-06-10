@@ -85,8 +85,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary" },
       { name: "twitter:title", content: "CloudFile - Secure cloud storage & file management" },
       { name: "twitter:description", content: "Premium cloud storage platform to upload, organize, sync and share files securely across devices." },
-      { property: "og:image", content: "https://cloud-file.lovable.app/__l5e/assets-v1/8b6999f3-2012-4869-b1be-75d195b8abc5/cloudfile-logo-v2.png" },
-      { name: "twitter:image", content: "https://cloud-file.lovable.app/__l5e/assets-v1/8b6999f3-2012-4869-b1be-75d195b8abc5/cloudfile-logo-v2.png" },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/6eddd27f-a040-4d9c-8ebf-cd9133a12b2b" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/6eddd27f-a040-4d9c-8ebf-cd9133a12b2b" },
     ],
     links: [
       { rel: "icon", type: "image/png", href: "/__l5e/assets-v1/8b6999f3-2012-4869-b1be-75d195b8abc5/cloudfile-logo-v2.png" },
